@@ -1,0 +1,65 @@
+[
+    {
+        "model": "api.book",
+        "pk": 1,
+        "fields": {
+            "title": "Python Crash Course",
+            "description": "lorem",
+            "author": "Eric Matthes",
+            "image": "https://image.shutterstock.com/image-photo/book-blank-black-cover-600w-266943458.jpg",
+            "rating": 4,
+            "review": 5,
+            "price": 12.99,
+            "in_stock": 103,
+            "category": "Programming",
+            "number_of_pages": 200,
+            "country": "USA",
+            "language": "English",
+            "publisher": "O'Reilly",
+            "edition": "First Edition",
+            "year_published": 2015
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 2,
+        "fields": {
+            "title": "Atomic Habits",
+            "author": "James Clear",
+            "description": "lorem",
+            "year_published": 2002,
+            "image": "https://image.shutterstock.com/image-photo/book-blank-black-cover-600w-266943458.jpg",
+            "rating": 4,
+            "review": 5,
+            "price": 12.99,
+            "in_stock": 103,
+            "category": "Programming",
+            "number_of_pages": 200,
+            "country": "USA",
+            "language": "English",
+            "publisher": "O'Reilly",
+            "edition": "First Edition"
+        }
+    },
+    {
+        "model": "api.book",
+        "pk": 3,
+        "fields": {
+            "title": "Clean Code",
+            "author": "Robert Cecil Martin",
+            "description": "lorem",
+            "year_published": 2008,
+            "image": "https://image.shutterstock.com/image-photo/book-blank-black-cover-600w-266943458.jpg",
+            "rating": 4,
+            "review": 5,
+            "price": 12.99,
+            "in_stock": 103,
+            "category": "Programming",
+            "number_of_pages": 200,
+            "country": "USA",
+            "language": "English",
+            "publisher": "O'Reilly",
+            "edition": "First Edition"
+        }
+    }
+]
